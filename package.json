@@ -1,0 +1,27 @@
+{
+  "name": "noc",
+  "displayName": "noc",
+  "description": "A visually pleasing dark theme for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "noc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noc-color-theme.json"
+      }
+    ]
+  },
+  "icon": "/icon.png",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#585EB4",
+    "theme": "dark"
+  }
+}
