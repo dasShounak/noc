@@ -3,7 +3,7 @@
   "displayName": "noc",
   "publisher": "dasShounak",
   "description": "A visually pleasing dark theme for VSCode.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.59.0"
   },
