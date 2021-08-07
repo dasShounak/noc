@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "noc" extension will be documented in this file.
+All notable changes to the "noc" theme will be documented in this file.
 
 
 ## [Unreleased]
