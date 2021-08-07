@@ -1,6 +1,5 @@
 # noc
----
-###### *A visually pleasing dark theme for VSCode.*
+### *A visually pleasing dark theme for VSCode.*
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/dasshounak.noc?style=flat-square) ![GitHub](https://img.shields.io/github/license/dasShounak/noc?style=flat-square) ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/dasShounak.noc?style=flat-square) ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/dasShounak.noc?style=flat-square) ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/dasShounak.noc?style=flat-square)
 
@@ -8,8 +7,7 @@ A [Visual Studio Code](https://code.visualstudio.com/) theme for all the nocturn
 
 ![Screenshot](images/screenshot.png)
 
-### Installation
----
+## Installation
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
 2. Launch Visual Studio Code.
 3. Click on **Extensions** tab in the Activity bar.
@@ -20,6 +18,5 @@ A [Visual Studio Code](https://code.visualstudio.com/) theme for all the nocturn
 8. Click: Color Theme > noc.
 
 
-### License
----
+## License
 [MIT License](https://marketplace.visualstudio.com/items/dasShounak.noc/license)
