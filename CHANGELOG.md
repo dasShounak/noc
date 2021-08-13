@@ -7,23 +7,27 @@ All notable changes to the "noc" theme will be documented in this file.
 
 ### Changed
 
-- Title bar background color won't change when out of focus, but font color opacity will still be reduced.
+- Token colorizations.
 
-- Status bar background color is now the same as editor background.
+- Keep title bar background color unchanged when out of focus.
+
+- Make status bar background color the same as editor background to avoid distractions.
 
 ## [1.1.1] - 2021-08-09
 
-- Updated changelog.
+- Update changelog.
 
 ## [1.1.0] - 2021-08-07
 
 ### Changed
 
-- String color - pale light blue --> pale turquoise.
+- Make yellow color tone softer.
 
-- Made the yellows softer.
+- Use more contrasting colors for better reading comprehension.
 
-- More contrasting colors used for better reading comprehension.
+### Fixed
+
+- Color of strings almost same as keywords.
 
 ## [1.0.0] - 2021-08-07
 
