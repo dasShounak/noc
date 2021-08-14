@@ -2,8 +2,17 @@
 
 All notable changes to the "noc" theme will be documented in this file.
 
-
 ## [Unreleased]
+
+### Added
+
+- Editor error and warning colors.
+
+- Welcome page colors.
+
+- Settings editor colors.
+
+## [2.0.0] - 2021-08-14
 
 ### Changed
 
