@@ -24,6 +24,8 @@ All notable changes to the "noc" theme will be documented in this file.
 
 ## [1.1.1] - 2021-08-09
 
+### Changed
+
 - Update changelog.
 
 ## [1.1.0] - 2021-08-07
