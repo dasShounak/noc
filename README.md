@@ -5,7 +5,14 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) theme for all the nocturnal coders out there. Optimised for those who work late at night or in low-light environments and fine-tuned for reading comprehension.
 
-![Screenshot](images/screenshot.png)
+**HTML**
+![Screenshot](images/html.png)
+
+**CSS**
+![Screenshot](images/css.png)
+
+**JavaScript**
+![Screenshot](images/javascript.png)
 
 ## Installation
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
@@ -17,6 +24,9 @@ A [Visual Studio Code](https://code.visualstudio.com/) theme for all the nocturn
 7. Open the **Settings** menu.
 8. Click: Color Theme > noc.
 
+## Issues
+- [Bug report](https://github.com/dasShounak/noc/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D)
+- [Feature request](https://github.com/dasShounak/noc/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFEATURE+REQUEST%5D)
 
 ## License
 [MIT License](https://marketplace.visualstudio.com/items/dasShounak.noc/license)
